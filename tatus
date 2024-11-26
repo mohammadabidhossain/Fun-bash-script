@@ -1,0 +1,29 @@
+[33mcommit 4d6d0516cc761e9f6318c0d0e9a041f027bd846d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: abid <abidmd.hossain@gmail.com>
+Date:   Mon Nov 25 12:09:22 2024 +0600
+
+    ignore icdb3 and portfolio in gitignore
+
+[33mcommit b393dec895be069ecdb016603d45095c35678168[m
+Author: abid <abidmd.hossain@gmail.com>
+Date:   Mon Nov 25 11:53:03 2024 +0600
+
+    Ignored ICDB3_094 and portfolio folders
+
+[33mcommit a581c30728bd09c79de5005fc41028d625c2906f[m
+Author: abid <abidmd.hossain@gmail.com>
+Date:   Mon Nov 25 10:44:37 2024 +0600
+
+    pull for git assignment
+
+[33mcommit b070242fa959b05afd2b8cd2130c6281a9009158[m
+Author: abid <abidmd.hossain@gmail.com>
+Date:   Mon Nov 25 08:58:56 2024 +0600
+
+    move mdabidhossain io to portfolio folder
+
+[33mcommit 454501e8143d80594c8e1935f1ebbb35fe227e79[m
+Author: abid <abidmd.hossain@gmail.com>
+Date:   Mon Nov 25 08:55:16 2024 +0600
+
+    add portfolio files from github.com of mdabidhossain profile
